@@ -1,0 +1,18 @@
+{
+  "total": 1,
+  "simulations_files": [
+    "attractors.md"
+  ],
+  "simulations_dates": [
+    "29/1/2024"
+  ],
+  "simulations_titles": [
+    "ATTRACTORS"
+  ],
+  "simulations_description": [
+    "A collection of different chaotic attractors where you will find the equations that describe them as well as the python code"
+  ],
+  "simulations_src": [
+    "attractors.mp4"
+  ]
+}

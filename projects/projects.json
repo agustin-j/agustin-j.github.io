@@ -1,0 +1,18 @@
+{
+  "total": 1,
+  "projects_files": [
+    "fourier.md"
+  ],
+  "projects_dates": [
+    "10/5/2024"
+  ],
+  "projects_titles": [
+    "FOURIER SERIES"
+  ],
+  "projects_description": [
+    "A tkinter app made in python that allows you to draw curves that are later converted to an SVG or import a .svg or .csv file directly. The paths of the SVG and functions of the CSV are later approximated by the use of Fourier series. You can choose between different settings for the animation and save them as GIFs."
+  ],
+  "projects_src": [
+    "fourier-app.gif"
+  ]
+}
