@@ -4,13 +4,13 @@
     "attractors.md"
   ],
   "simulations_dates": [
-    "10/6/2024"
+    "16/6/2024"
   ],
   "simulations_titles": [
     "ATTRACTORS"
   ],
   "simulations_description": [
-    "A collection of different chaotic attractors where you will find the equations that describe them as well as the python code"
+    "A collection of different attractors where you will find the equations that describe them as well as the python code for plotting them"
   ],
   "simulations_src": [
     "attractors.mp4"
