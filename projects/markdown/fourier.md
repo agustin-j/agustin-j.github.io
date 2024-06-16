@@ -1,5 +1,5 @@
 ---
-DATE: 10/5/2024
+DATE: 16/6/2024
 TITLE: FOURIER SERIES
 DESCRIPTION: A tkinter app made in python that allows you to draw curves that are later converted to an SVG or import a .svg or .csv file directly. The paths of the SVG and functions of the CSV are later approximated by the use of Fourier series. You can choose between different settings for the animation and save them as GIFs.
 SRC: fourier-app.gif

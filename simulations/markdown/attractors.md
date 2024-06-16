@@ -1,5 +1,5 @@
 ---
-DATE: 29/1/2024
+DATE: 16/6/2024
 TITLE: ATTRACTORS
 DESCRIPTION: A collection of different attractors where you will find the equations that describe them as well as the python code for plotting them
 SRC: attractors.mp4
