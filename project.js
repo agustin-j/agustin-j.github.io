@@ -146,7 +146,7 @@ function Format_date(date) {
   let content = date.split("/");
   const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
   let day = content[0];
-  let month = months[content[1]];
+  let month = months[content[1]-1];
   let year = content[2];
   let formated_date =  `${month} ${day}, ${year}`;
   return formated_date
